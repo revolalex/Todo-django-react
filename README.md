@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/made%20with-python-green?logo=python).
+![](https://img.shields.io/badge/made%20with-django-green?logo=django).
+![](https://img.shields.io/badge/made%20with-react-blue?logo=react).
+<img src="https://img.shields.io/badge/axios-succes.svg" alt="axios">.
+
 # Todo-django-react
 
 ## Step 1 — Setting Up the Backend
