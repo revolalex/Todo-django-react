@@ -90,7 +90,7 @@ class Todo(models.Model):
         return self.title
 ```
 
-So the Todo have 3 properties ties:
+So the Todo have 3 properties:
 - ```title```
 - ```description```
 - ```completed```
